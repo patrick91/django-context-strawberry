@@ -1,0 +1,15 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Patrick Arminio",email = "patrick.arminio@gmail.com"},
+]
+dependencies = [
+    "django>=4.2.6",
+    "strawberry-graphql>=0.209.8",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
